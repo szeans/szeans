@@ -8,7 +8,8 @@
 
 <p>• studying computer science at purdue university </p>
 <p>• minors in management & electronic and time-based art </p>
-<p>• interning at the federal home loan bank of chicago </p>
+<p>• broadly interested in pursuing software engineering </p>
+<p>• passionate about design and forms of creative expression </p>
 
 <!--
 #
