@@ -6,8 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-szeans-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/szeans/)](https://instagram.com/szeans)
 [![Soundcloud Badge](https://img.shields.io/badge/-szean-orange?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/szean/)](https://soundcloud.com/szean)
 
-<p>• studying computer science at purdue university </p>
-<p>• minors in management & electronic and time-based art </p>
+<p>• b.s. in computer science @ purdue university [2024] </p>
+<p>• incoming swe intern @ fannie mae </p>
 
 <!--
 #
