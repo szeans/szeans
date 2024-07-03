@@ -7,7 +7,6 @@
 [![Soundcloud Badge](https://img.shields.io/badge/-szean-orange?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/szean/)](https://soundcloud.com/szean)
 
 <p>• b.s. in computer science @ purdue university [2024] </p>
-<p>• incoming swe intern @ fannie mae </p>
 
 <!--
 #
