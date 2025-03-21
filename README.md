@@ -4,8 +4,6 @@
 [![Soundcloud Badge](https://img.shields.io/badge/-szean-orange?style=flat&link=https://soundcloud.com/szean/)](https://soundcloud.com/szean)
 
 <p>b.s. in computer science @ purdue university [2024]</p>
-<p>associate at fannie mae</p>
-
 
 
 <!--
